@@ -1,5 +1,5 @@
 // Canvas Asteroids
-// Trunggm
+// Trunggm - easy-mode
 // Copyright (c) 2010 Doug McInnes
 //
 
