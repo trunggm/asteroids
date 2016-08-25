@@ -1,5 +1,5 @@
 // Canvas Asteroids
-// Trunggm
+// Trunggm -new branch
 // Copyright (c) 2010 Doug McInnes
 //
 
